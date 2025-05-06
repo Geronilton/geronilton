@@ -1,0 +1,89 @@
+/* Responsividade para telas até 768px */
+@media (max-width: 768px) {
+    .container {
+        min-width: 100%;
+    }
+
+    header, nav, main, footer {
+        width: 100%;
+        padding: 0;
+    }
+
+    .redes {
+        justify-content: center;
+        padding: 20px 0;
+    }
+
+    .sidebar{
+        margin-left: 50%;
+        margin-right: 50%;
+        width: 500px;
+    }
+
+    .sidebar > .navegacion > ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .linkNavega {
+        width: 200px;
+        max-width: 400px;
+
+    }
+
+    .skills {
+        grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+        width: 100%;
+    }
+
+    .SectionProjetos {
+        width: 90%;
+        padding: 20px;
+    }
+    .SectionProjetos h2{
+        margin-bottom: 13px;
+    }
+
+    .projetos {
+        grid-template-columns: 1fr;
+    }
+
+    .cardsProjeto {
+        margin: 10px 0;
+        padding: 15px;
+    }
+
+    .apresentacion {
+        font-size: 18px;
+        text-align: left;
+    }
+    .apresentacion h1, h2{
+        font-size: 20px;
+        text-align: start;
+    }
+
+    .apresentacion > p {
+        text-align: left;
+        font-size: 16px;
+
+    }
+
+    .SectionSobre-mim{
+        width: 100%;
+    }
+
+    .SobreMim{
+        width: 100%;
+    }
+
+    .imgTecnologias{
+
+        padding: 100px; 
+        margin: 20px 0 0 0;
+    }
+
+    .imgTecnologias > img {
+        width: 20px;
+        height: 10px;
+    }
+}
