@@ -1,6 +1,7 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Olá, eu sou o Geronilton 👋
 
-Meu nome é Geronilton, sou formado em Tecnologia em Sistemas para Internet pelo IFRN – Campus Canguaretama. Tenho foco nas áreas de desenvolvimento de sistemas e programação.
+Dev full-stack transformando código em soluções reais. Formado em 
+Tecnologia em Sistemas para Internet pelo IFRN – Campus Canguaretama.
 
  <div>
    <a href="https://github.com/geronilton">
@@ -32,8 +33,4 @@ Meu nome é Geronilton, sou formado em Tecnologia em Sistemas para Internet pelo
   <a href="https://geronilton.github.io/geronilton/" target="_blank">
     <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/c5d00fda-57f3-4501-a750-e8117924b611" />
   </a>
-
- 
-  ![Animação de cobra](https://github.com/geronilton/geronilton/blob/output/github-contribution-grid-snake.svg)
-
 </div>
