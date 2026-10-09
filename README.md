@@ -1,4 +1,4 @@
-## Olá, eu sou o Geronilton 👋
+## Olá, Me chamo Geronilton 👋
 
 Dev full-stack transformando código em soluções reais. Formado em 
 Tecnologia em Sistemas para Internet pelo IFRN – Campus Canguaretama.
