@@ -6,7 +6,7 @@ Tecnologia em Sistemas para Internet pelo IFRN – Campus Canguaretama.
  <div>
    <a href="https://github.com/geronilton">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geronilton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geronilton&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geronilton&layout=compact&langs_count=6&theme=tokyonight&exclude_repo=pi23_katu_experience,aulas_de_backend,repositorio_pessoal,Imersao_devops"/>
 
 </div>
 <div style="display: inline_block"><br>
